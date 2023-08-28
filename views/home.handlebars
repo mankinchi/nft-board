@@ -1,0 +1,1 @@
+<h1>Random page</h1>
